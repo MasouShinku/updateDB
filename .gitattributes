@@ -1,0 +1,4 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+updateSQL.exe filter=lfs diff=lfs merge=lfs -text
+updateSQL.txt filter=lfs diff=lfs merge=lfs -text
+添加比赛.xlsx filter=lfs diff=lfs merge=lfs -text
