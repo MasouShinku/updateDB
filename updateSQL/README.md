@@ -1,0 +1,1 @@
+确保同目录下有文件updateSQL.txt和添加比赛.xlsx
